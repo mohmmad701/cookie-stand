@@ -74,3 +74,15 @@ footer {
     padding-top: 150px;
     font-size: larger;
 }
+
+section button:hover {
+    background-color:brown;
+    color: burlywood;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    width: 20px;
+    text-align: center;
+    margin: 20px;
+
+
+}
