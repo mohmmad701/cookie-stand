@@ -3,13 +3,17 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
     font-weight: bold;
-    background-color:saddlebrown;
     
+  
+      background-color:saddlebrown;
 
 }
 h1{
     font-size: 50px;
-    color: aqua;
+    font-family: serif;
+    color:aqua;
+    font-weight: bold;
+    
     
     
 }
@@ -23,21 +27,30 @@ width: 300px;
 height: 200;
 }
 h2{
-    color: aqua;
+    background-color: burlywood;
+    color:aqua;
     font-weight: bold;
+    font-size: x-large;
+    font-family: serif;
     
 
 }
-
 ul li a {
-display: inline-flex;
-margin-left: 50px;
-margin-right: 50px;
-font-size: 25px;
-font-weight: bold;
-text-decoration:none;
+    display: inline-flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration:none;
+    
+    }
+    fieldset{
+        background-color:gold;
+            font-family: sans-serif;
+            font-weight: bold;
+            color: black;
+    }
 
-}
 main{
     border:brown;
     border-style: groove;
@@ -46,8 +59,9 @@ main{
 }
 p{
     font-weight: bold;
-    color: aqua;
+    color: blue;
     font-size: 30px;
+    font-family: serif;
 }
 main img{
 width: 150px;
@@ -62,7 +76,8 @@ ul li a {
     font-size: 25px;
     font-weight: bold;
     text-decoration:none;
-    color: aqua;
+    color: blue;
+    font-family: serif;
     }
     
 footer{
@@ -78,3 +93,33 @@ footer{
         display: inline-block;
     margin: 20px;
     }
+  
+    table{
+        border: solid 1px grey;
+        background-color: snow;
+    
+    }
+    table tr th{
+        border: solid 1px black;
+        width:  60px;
+     
+        background-color:gold;
+            font-family: sans-serif;
+            font-weight: bold;
+            color:black;
+    }
+    table tr td {
+        border: solid 1px black;
+        width:  60px;
+     
+        background-color:gold;
+            font-family: sans-serif;
+            font-weight: bold;
+            color: black;
+    }
+   /* table tr td{
+        border: solid 1px papayawhip;
+        width:  60px;
+        color: orange;
+    }
+    
