@@ -1,6 +1,6 @@
 *{
     text-align: center;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
     font-size: medium;
     font-weight: bold;
     
@@ -10,7 +10,7 @@
 }
 h1{
     font-size: 50px;
-    font-family: serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color:aqua;
     font-weight: bold;
     
@@ -31,7 +31,7 @@ h2{
     color:aqua;
     font-weight: bold;
     font-size: x-large;
-    font-family: serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     
 
 }
@@ -46,7 +46,7 @@ ul li a {
     }
     fieldset{
         background-color:gold;
-            font-family: sans-serif;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
             font-weight: bold;
             color: black;
     }
@@ -61,7 +61,7 @@ p{
     font-weight: bold;
     color: blue;
     font-size: 30px;
-    font-family: serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 main img{
 width: 150px;
@@ -77,7 +77,7 @@ ul li a {
     font-weight: bold;
     text-decoration:none;
     color: blue;
-    font-family: serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     }
     
 footer{
@@ -104,7 +104,7 @@ footer{
         width:  60px;
      
         background-color:gold;
-            font-family: sans-serif;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
             font-weight: bold;
             color:black;
     }
@@ -113,7 +113,7 @@ footer{
         width:  60px;
      
         background-color:gold;
-            font-family: sans-serif;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
             font-weight: bold;
             color: black;
     }
